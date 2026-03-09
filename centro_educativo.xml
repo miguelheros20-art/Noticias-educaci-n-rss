@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias de centros educativos</title>
+        <link>https://exitoeducativo.net/</link>
+        <description>Actualidad sobre las noticias recientes de educación</description>
+        <language>es</language>
+
+        <item>
+            <title>Uso de psicofármacos</title>
+            <link>https://exitoeducativo.net/actualidad-directiva/bienestar-emocional/detectan-un-incremento-sostenido-del-uso-de-psicofarmacos-entre-ninos-adolescentes-y-adultos-jovenes</link>
+            <description>Detectan un incremento sostenido del uso de psicofármacos 
+                entre niños, adolescentes y adultos jóvenes</description>
+            <pubDate>Mon, 09 Mar 2026 08:49:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>IA en las universidades</title>
+            <link>https://exitoeducativo.net/educacion-superior/universidades-ante-el-desafio-de-la-ia-uso-masivo-entre-estudiantes-pero-sin-normas-claras</link>
+            <description>Universidades ante el desafío de la IA: uso masivo entre estudiantes, pero sin 
+                normas claras</description>
+            <pubDate>Mon, 09 Mar 2026 08:49:00 +0100</pubDate>
+        </item>
+        
+    </channel>
+</rss>
